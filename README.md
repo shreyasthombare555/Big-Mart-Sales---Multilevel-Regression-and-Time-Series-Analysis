@@ -12,11 +12,11 @@ Retail Chain - This file contains real sales and promotions data from a large re
 
 **ii) Action Plan**
 
-**Level 1 **
+**Level 1**
 
 Preprocessed data by executing Non-linear Transformations, data standardization, feature engineering, and accomplished Multi-level regression analysis with a goal of recommending business entrepreneurs/retailers considering franchising one or more stores of this retail chain.  
 
-**1) What type of outlet will return him the best sales: Grocery store or Supermarket Type 1, 2, or 3?
+**1) What type of outlet will return him the best sales: Grocery store or Supermarket Type 1, 2, or 3?**
 
 Looking at the random effect coefficients we can infer that Supermarket Type 3 outlet type has 1755.6492 more sales
 than the mean. Hence Supermarket Type 3 is the best performing outlet type in the data.
@@ -30,13 +30,13 @@ Looking at the random effect coefficients we can infer that City Type Tier 2 has
 
 On the other hand City Type Tier 1 has lowest item sales of approximately 289.75 lower than the mean.
 
-**3) What are the top 3 highest performing and lowest performing stores in the sample?****
+**3) What are the top 3 highest performing and lowest performing stores in the sample?**
 
 Looking at the random effect coefficients we can infer that Outlets OUT027, OUT046, OUT035 are top 3 performing outlets with sales 1775.68, 691.34 and 374.06 more than the mean of the random effect variable.
 
 Outlets OUTO10, OUT019, OUTO45 are least performing outlets with sales 1700.83, 1065.414 and 275.4 less than the mean of the random effect variable.
 
-**Level 2 **
+**Level 2**
 
 The transaction table has weekly information on price and promotions of products. I scrutinized the effects of these pricing and promotion strategies on total spend for that product, number of households who purchased that product, and the number of store visits.
 
@@ -49,9 +49,3 @@ My analysis aimed at answering the following questions - (_Please refer the repo
 **3) What are the five most price elastic and five least price elastic products? Price elasticity is the change in sales for unit change in product price?**
 
 **4) As the retailer, which products would you lower the price to maximize (a) product sales and (b) unit sales, and why?**
-
-
-
-
-
-
