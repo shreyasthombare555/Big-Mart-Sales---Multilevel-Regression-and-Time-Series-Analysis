@@ -49,3 +49,8 @@ My analysis aimed at answering the following questions - (_Please refer the repo
 **3) What are the five most price elastic and five least price elastic products? Price elasticity is the change in sales for unit change in product price?**
 
 **4) As the retailer, which products would you lower the price to maximize (a) product sales and (b) unit sales, and why?**
+
+# Technologies Used
+
+i) R programming 
+ii) MS Excel
